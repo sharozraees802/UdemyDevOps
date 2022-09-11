@@ -1,0 +1,46 @@
+1) download vagrant use a choco
+
+select a specific folder to init a vagrant
+box-name= centos7 = geerlingguy/centos7
+2) vagrant init [box-name]
+
+box-name find on vagrant cloud
+create a vagrant file in a same folder you choose
+
+3) vagrant up
+
+create a virualmachine to give a ios=boxname provided
+
+access virtualmachine in a same folder
+
+4) vagrant ssh
+
+check user name
+
+5) whoami
+
+virtualmachine poweroff
+
+6) vagrant halt
+
+check number of box avaliable
+
+7) vagrant box list
+
+show you a all box id
+
+8) vagrant global-status --prune
+
+
+Vagrant is managing and destroys all resources
+
+9) vagrant destroy [name|id]
+
+reboot the virtual box
+
+10) vagrant reload
+
+
+check git bash history
+
+11) history
