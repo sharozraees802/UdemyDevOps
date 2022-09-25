@@ -44,3 +44,6 @@ reboot the virtual box
 check git bash history
 
 11) history
+
+
+[*] vagrant init ubuntu/bionic64
