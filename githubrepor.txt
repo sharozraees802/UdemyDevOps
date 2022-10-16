@@ -1,1 +1,5 @@
 https://github.com/devopshydclub/vprofile-project
+
+Section 6: VProfile Project Setup Manual, Automated
+https://github.com/devopshydclub/vprofile-project/tree/local-setup/vagrant
+https://github.com/devopshydclub/vprofile-project

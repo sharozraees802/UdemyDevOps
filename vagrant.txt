@@ -51,3 +51,7 @@ check git bash history
 [*] vagrant init geerlingguy/ubuntu2004
 
 free template : https://www.tooplate.com/
+
+
+plugin install vagrant hostmanager mange all host name
+ vagrant plugin install vagrant-hostmanager
