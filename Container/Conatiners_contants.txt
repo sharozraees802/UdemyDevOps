@@ -1,3 +1,7 @@
 https://www.docker.com/resources/what-container/
 
 https://docs.docker.com/get-started/overview/
+
+
+
+https://www.geeksforgeeks.org/remove-all-containers-and-images-in-docker/#:~:text=Remove%20all%20Containers%3A%20To%20remove,containers%20in%20the%20docker%2Dmachine.
