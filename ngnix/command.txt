@@ -1,0 +1,15 @@
+
+
+cd /etc/nginx/sites-enable
+ls 
+nano node
+ servername -> add a domain name add
+
+		OR
+nano /etc/nginx/sites-enable/node
+
+
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview
+
+
+
